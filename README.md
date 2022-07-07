@@ -24,6 +24,12 @@ This section contains list of tools or platform for developing application with 
 - NocoBase[https://www.nocobase.com/] Scalability-first open-source no-code platform
 - NocoDB[https://www.nocodb.com/] Open Source Airtable Alternative
 
+#### Backend as a Service (Cloud and Self Hosted)
+This section contains backend as a service which enables rapid development 
+- AppWrite [https://appwrite.io/] Secure Open-Source Backend Server for Web, Mobile & Flutter Developers
+- Firebase [https://firebase.google.com/] Firebase is an app development platform that helps you build and grow apps and games users love
+- Supabase [https://supabase.com/] Build in a weekend. Scale to millions.
+
 #### ERP Application
 This sections contains list of open source or cheap ERP applications
 - ERPNext [https://erpnext.com/] The most agile ERP on the planet
