@@ -8,7 +8,6 @@ This repository will contains currated list of good tools and processes in softw
 - Leantime [https://github.com/Leantime/leantime] - Lean Project Management for Innovators
 - Taiga [https://github.com/kaleidos-ventures/taiga-docker/] - Your Agile, Free and Open Source Project Management Tool
 - Tuleap [https://github.com/Enalean/tuleap] - Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration
-- 
 
 ### Data
 #### EventTracker
@@ -24,3 +23,8 @@ This section contains list of tools or platform for developing application with 
 - BudiBase[https://budibase.com/] Build internal apps in minutes, the easy way
 - NocoBase[https://www.nocobase.com/] Scalability-first open-source no-code platform
 - NocoDB[https://www.nocodb.com/] Open Source Airtable Alternative
+
+#### ERP Application
+This sections contains list of open source or cheap ERP applications
+- ERPNext [https://erpnext.com/] The most agile ERP on the planet
+- Odoo [https://www.odoo.com/] Open Source ERP and CRM
