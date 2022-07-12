@@ -34,3 +34,9 @@ This section contains backend as a service which enables rapid development
 This sections contains list of open source or cheap ERP applications
 - ERPNext [https://erpnext.com/] The most agile ERP on the planet
 - Odoo [https://www.odoo.com/] Open Source ERP and CRM
+
+#### Workflow Automation Platform
+This section contains list of open source or cheap workflow automation platform
+- Huginn [https://github.com/huginn/huginn] Huginn is a system for building agents that perform automated tasks for you online.
+- n8n [https://n8n.io/] The workflow automation platform that doesn't box you in, that you never outgrow
+
